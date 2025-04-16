@@ -1,1 +1,3 @@
 # GUIDGet
+GUIDを取得してDiscordwebhookを使用してtextdataで送信する
+C++で作成されたアプリケーション
